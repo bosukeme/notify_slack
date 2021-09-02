@@ -1,0 +1,5 @@
+twint
+pandas
+pymongo['srv']
+decouple 
+requests
